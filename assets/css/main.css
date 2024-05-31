@@ -6776,6 +6776,8 @@ body {
   transition: all 0.5s ease-out 0s;
   display: inline-block;
   max-width: 200px;
+  max-height: 80px;
+  object-fit: contain;
 }
 
 .brand-active .slick-list {
